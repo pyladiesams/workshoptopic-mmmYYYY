@@ -4,7 +4,7 @@
 ### Presentation: (where your audience can find the presentations)
 
 ## Project description
-Decribe why your introduction in this topic is important and what you want to teach your audience
+Describe why your introduction in this topic is important and what you want to teach your audience
 
 
 ## Preparations:
