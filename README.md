@@ -7,7 +7,7 @@
 Describe why your introduction to this topic is important and what you want to teach to your audience
 
 
-## Preparations:
+## Setup:
 Set up a Python 3 environment that can run Jupyter notebooks (Jupyter or Jupyterlab) and install the following libraries:
 * ...
 
