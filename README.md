@@ -1,10 +1,10 @@
 
-# An introduction in { YOUR TOPIC } with { LIBARY YOU USE } 
-### Level: Beginner - Advanged beginner
-### Presentation: (where your audience can find the presentations)
+# An introduction to { YOUR TOPIC } with { LIBRARY YOU USE } 
+### Level: Beginner or Advanced
+### Presentation: (where your audience can find the presentation)
 
 ## Project description
-Describe why your introduction in this topic is important and what you want to teach your audience
+Describe why your introduction to this topic is important and what you want to teach to your audience
 
 
 ## Preparations:
