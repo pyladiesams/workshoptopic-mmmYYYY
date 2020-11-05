@@ -1,29 +1,18 @@
 
-# An introduction to { YOUR TOPIC } with { LIBRARY YOU USE } 
+# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
 ### Level: Beginner or Advanced
-### Presentation: (where your audience can find the presentation)
+### Presentation: (link to your presentation if exists)
 
-## Project description
-Describe why your introduction to this topic is important and what you want to teach to your audience
-
-
-## Setup:
-Set up a Python 3 environment that can run Jupyter notebooks (Jupyter or Jupyterlab) and install the following libraries:
-* ...
-
-The easiest way to do this is to install [anaconda](https://www.anaconda.com/distribution/) and install the libraries in your root environment:
-```conda install matplotlib pandas seaborn```
-
-If you already have a running (ana)conda environment, you can use `intro.yml` to set up a separate enviroment:
-```conda env create -f environment.yml```
+## Workshop description
+Describe why your topic is important and what you want to share with your audience
 
 ## Requirements
-* Python 3
-* ...
+Do not forget to indicate Python version and any other tools
++ add requirements.txt or conda.yml or docker image or Binder/Google Collab link
 
 ## Usage
 * Clone the repository
-* Start jupyter(lab) and navigate to the workshop folder
+* Start { TOOL } and navigate to the workshop folder
 
 ## Credits
-This workshop was set up by @pyladiesams and {your github}
+This workshop was set up by @pyladiesams and {your github handler}
