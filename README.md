@@ -1,7 +1,7 @@
 
 # An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
 ### Level: Beginner or Advanced
-### Presentation: (link to your presentation if exists)
+### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
 
 ## Workshop description
 Describe why your topic is important and what you want to share with your audience
