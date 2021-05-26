@@ -15,7 +15,7 @@ Do not forget to indicate Python version and any other tools
 * Start { TOOL } and navigate to the workshop folder
 
 ## Video record
-Will be available within 1-2 weeks after the event
+Re-watch YouTube stream [here](link)
 
 ## Credits
 This workshop was set up by @pyladiesams and {your github handler}
