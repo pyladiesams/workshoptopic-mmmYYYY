@@ -1,9 +1,9 @@
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
+# An introduction to RAG with Elastic
 ### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+During the workshop you will learn what is Retrieval Augmented Generation, how it can increase trustability of LLM models and how to set up a RAG pipeline using Elastic.
 
 ## Requirements
 Do not forget to indicate Python version and any other tools
@@ -14,7 +14,7 @@ Do not forget to indicate Python version and any other tools
 * Start { TOOL } and navigate to the workshop folder
 
 ## Video record
-Re-watch [this YouTube stream](link)
+Re-watch [this YouTube stream](https://www.youtube.com/live/TQdK9OsfHQk)
 
 ## Credits
-This workshop was set up by @pyladiesams and {your github handler}
+This workshop was set up by @pyladiesams and @ahavrius
