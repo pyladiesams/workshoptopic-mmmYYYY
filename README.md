@@ -25,3 +25,22 @@ Re-watch [this YouTube stream](link)
 
 ## Credits
 This workshop was set up by @pyladiesams and {your github handler}
+
+
+## Appendix
+
+### Google Colab
+
+To run this project on Google Colab, follow the following instructions:
+1. Visit [Google Colab](https://colab.research.google.com/)
+2. In the top left corner select "File" &#8594; "Open Notebook"
+3. Under "GitHub", enter the URL of the repo of this workshop
+4. Select one of the Notebooks within the repo.
+5. At the tob of the notebook, runthe following code:
+```bash
+!cd ./name-of-repo
+!pip install -r requirements.txt
+```
+
+Happy Coding :)
+
