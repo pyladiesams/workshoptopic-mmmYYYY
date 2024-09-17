@@ -44,3 +44,7 @@ To run this project on Google Colab, follow the following instructions:
 
 Happy Coding :)
 
+
+### Pre-Commit Hooks
+
+To ensure our code looks beautiful, PyLadies uses pre-commit hooks. You can enable them by running `pre-commit install`. You may have to install `pre-commit` first, using `uv sync`, `uv pip install pre-commit` or `pip install pre-commit`.
