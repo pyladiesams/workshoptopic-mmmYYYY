@@ -1,9 +1,12 @@
-
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
+# LLMs in Action: How Booking.com Scans, Detects, and Monitors Fake and Unsafe Content
 ### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+Explore the power of LLMs in this hands-on workshop featuring real use cases from Booking.com. Learn how to scan and detect fake and unsafe content in reviews, and discover how AI is applied to keep reviews trustworthy and the platform secure. 
+
+The workshop will be divided into two parts. The first part will introduce the business use case and explain how LLMs come to the rescue in detecting and preventing fake content. In the second part, participants will get hands-on experience working with script-generated reviews, gaining an overview of relevant models from Hugging Face, and training a model specifically for this purpose. You’ll also learn practical applications using Hugging Face's powerful transformers library.
+
+Whether you're interested in LLMs, online safety, or the mechanics of content moderation, this session offers an in-depth look at the cutting-edge tools that help maintain a safe digital environment.
 
 ## Requirements
 Do not forget to indicate Python version and any other tools
@@ -13,8 +16,8 @@ Do not forget to indicate Python version and any other tools
 * Clone the repository
 * Start { TOOL } and navigate to the workshop folder
 
-## Video record
-Re-watch [this YouTube stream](link)
+## Zoom link
+[Join](https://us06web.zoom.us/j/83100087591?pwd=72IYughip4alHovellT3wuH3fibBJf.1)
 
 ## Credits
 This workshop was set up by @pyladiesams and {your github handler}
