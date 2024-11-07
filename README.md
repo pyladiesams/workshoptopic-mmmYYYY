@@ -16,8 +16,5 @@ Do not forget to indicate Python version and any other tools
 * Clone the repository
 * Start { TOOL } and navigate to the workshop folder
 
-## Zoom link
-[Join](https://us06web.zoom.us/j/83100087591?pwd=72IYughip4alHovellT3wuH3fibBJf.1)
-
 ## Credits
 This workshop was set up by @pyladiesams and {your github handler}
