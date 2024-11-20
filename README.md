@@ -1,5 +1,5 @@
 # LLMs in Action: How Booking.com Scans, Detects, and Monitors Fake and Unsafe Content
-### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
+### Presentation: will be uploaded after the workshop
 
 ## Workshop description
 Explore the power of LLMs in this hands-on workshop featuring real use cases from Booking.com. Learn how to scan and detect fake and unsafe content in reviews, and discover how AI is applied to keep reviews trustworthy and the platform secure. 
@@ -9,28 +9,30 @@ The workshop will be divided into two parts. The first part will introduce the b
 Whether you're interested in LLMs, online safety, or the mechanics of content moderation, this session offers an in-depth look at the cutting-edge tools that help maintain a safe digital environment.
 
 ## Requirements
-Do not forget to indicate Python version and any other tools
-+ add requirements.txt or conda.yml or docker image or Binder/Google Collab link
-
+- Google Colab with GPU.
+- If downloading this repository, Git Large File Storage from https://git-lfs.com/.
+  
 ## Setting Up Notebook for Part II (Hands-On)
 
-1. Launch the notebook directly: 
-`https://colab.research.google.com/github/pyladiesams/llms-scan-reviews-nov2024/blob/master/workshop/LLMs-to-Scan-and-Detect-Fake-Reviews.ipynb`
+### Option 1
+Download the files from Google Drive https://drive.google.com/drive/folders/1VGcRvOlyto0SxMmU9Y5Ds2ySgASB5-IE?usp=sharing and upload to your Drive. 
 
-- Open the Notebook in Google Colab (Click the link above to open the notebook in Google Colab)
-- Enable GPU Runtime:
+Then:
+1. Open the Notebook in Google Colab.
+2. Enable GPU Runtime:
 - Go to Runtime > Change runtime type in the Colab menu
 - Set Hardware accelerator to GPU
 - Click Save
-
-2. Create a new cell before the imports and copy paste this: `!git clone https://github.com/pyladiesams/llms-scan-reviews-nov2024.git`
-3. Create a new cell below and type:
-```import os
-os.chdir("llms-scan-reviews-nov2024/workshop")```
+3. Mount your Drive. This can be done with a cell:
+  `from google.colab import drive
+  drive.mount('/content/drive')`
+4. Add the Drive files to the Colab runtime:
+  `import sys
+  sys.path.append('/content/drive/MyDrive/<PATH_TO_YOUR_FILES>')`
  
-## Usage
-* Clone the repository
-* Start { TOOL } and navigate to the workshop folder
-
+### Option 2
+1. Install Git Large File Storage from https://git-lfs.com/.
+2. Clone the repository.
+ 
 ## Credits
-This workshop was set up by @pyladiesams and {your github handler}
+This workshop was set up by @pyladiesams and @flozefi.
