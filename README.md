@@ -14,7 +14,7 @@ Do not forget to indicate Python version and any other tools
 
 ## Setting Up Notebook for Part II (Hands-On)
 
-Launch the notebook directly: 
+1. Launch the notebook directly: 
 `https://colab.research.google.com/github/pyladiesams/llms-scan-reviews-nov2024/blob/master/workshop/LLMs-to-Scan-and-Detect-Fake-Reviews.ipynb`
 
 - Open the Notebook in Google Colab (Click the link above to open the notebook in Google Colab)
@@ -23,6 +23,11 @@ Launch the notebook directly:
 - Set Hardware accelerator to GPU
 - Click Save
 
+2. Create a new cell before the imports and copy paste this: `!git clone https://github.com/pyladiesams/llms-scan-reviews-nov2024.git`
+3. Create a new cell below and type:
+```import os
+os.chdir("llms-scan-reviews-nov2024/workshop")```
+ 
 ## Usage
 * Clone the repository
 * Start { TOOL } and navigate to the workshop folder
