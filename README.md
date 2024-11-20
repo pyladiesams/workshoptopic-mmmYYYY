@@ -12,6 +12,17 @@ Whether you're interested in LLMs, online safety, or the mechanics of content mo
 Do not forget to indicate Python version and any other tools
 + add requirements.txt or conda.yml or docker image or Binder/Google Collab link
 
+## Setting Up Notebook for Part II (Hands-On)
+
+Launch the notebook directly: 
+`https://colab.research.google.com/github/pyladiesams/llms-scan-reviews-nov2024/blob/master/workshop/LLMs-to-Scan-and-Detect-Fake-Reviews.ipynb`
+
+- Open the Notebook in Google Colab (Click the link above to open the notebook in Google Colab)
+- Enable GPU Runtime:
+- Go to Runtime > Change runtime type in the Colab menu
+- Set Hardware accelerator to GPU
+- Click Save
+
 ## Usage
 * Clone the repository
 * Start { TOOL } and navigate to the workshop folder
