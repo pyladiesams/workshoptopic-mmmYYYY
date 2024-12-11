@@ -1,6 +1,6 @@
 
 # { WORKSHOP NAME } 
-### Presentation: [Presentation_name](workshop/presentation_template.pdf)
+### Presentation: [{ YOUR PRESENTATION NAME }](workshop/presentation_template.pdf)
 
 ## Workshop description
 Describe why your topic is important and what you want to share with your audience
